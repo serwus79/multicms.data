@@ -1,0 +1,17 @@
+{
+  "name": "multicms.data",
+  "version": "0.1.0",
+  "description": "Multicms models, helpers and services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Chomicz, Oskar Baranowski, infocity sp. z o.o.",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.9.5",
+    "@types/bluebird": "3.5.20",
+    "typescript": "^2.7.2"
+  }
+}
